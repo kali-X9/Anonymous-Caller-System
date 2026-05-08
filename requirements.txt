@@ -1,0 +1,4 @@
+pjsua==0.5.108
+torpy==1.1.6
+PyYAML>=6.0
+click>=8.1.7
