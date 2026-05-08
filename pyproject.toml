@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "anonymous-caller"
+version = "1.0.0"
+description = "Secure Anonymous Calling System Using Tor + SIP"
+dependencies = [
+    "pjsua",
+    "torpy",
+    "PyYAML",
+    "click"
+]
